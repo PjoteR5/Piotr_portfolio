@@ -1,0 +1,15 @@
+site_name: My Docs
+# site_url: https://mydomain.org/mysite
+nav:
+  - Home: index.md
+  - About: about.md
+  - Diagram: makrdown.md
+theme: 
+  name: material
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
