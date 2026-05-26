@@ -1,5 +1,5 @@
 site_name: My Docs
-# site_url: https://mydomain.org/mysite
+site_url: https://pjoter5.github.io/Piotr_portfolio/
 nav:
   - Home: index.md
   - About: about.md
