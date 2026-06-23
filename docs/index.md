@@ -10,7 +10,7 @@ Zapisane wykłady, streszczenia z książek i notatki z przedmiotów. Systematyc
 ### [Egzaminy](/exams/)
 Zbiór zadań z egzaminów, przykładowe rozwiązania i materiały przygotowawcze. Idealnie do powtórki przed sesją.
 
-### 🎤 [Prezentacje](/presentations/)
+### [Prezentacje](/presentations/)
 Slajdy i materiały z prezentacji projektowych i kursów.
 
 

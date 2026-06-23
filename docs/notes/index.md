@@ -1,4 +1,4 @@
-# 📖 Notatki
+# Notatki
 
 Tutaj przechowuję notatki z moich przedmiotów. Materiały są organizowane tematycznie dla łatwego dostępu.
 
@@ -43,7 +43,7 @@ Opis...
 ## Źródła
 - Książka X, str. X-Y
 - Wykład Z z dnia DD.MM
-```
+```markdown
 
 ---
 
