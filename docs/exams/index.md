@@ -1,4 +1,4 @@
-# 📝 Egzaminy
+# Egzaminy
 
 Zbiór zadań, przykładów i materiałów przygotowawczych do egzaminów.
 
@@ -13,7 +13,7 @@ W tej sekcji znajdziesz:
 
 ---
 
-## 📅 Nadchodzące egzaminy
+## Nadchodzące egzaminy
 
 - Analiza Matematyczna - Semestr 1
 - Algebra Liniowa - Semestr 1
@@ -21,7 +21,7 @@ W tej sekcji znajdziesz:
 
 ---
 
-## 🎯 Plan przygotowania
+## Plan przygotowania
 
 1. **Tydzień 1-2:** Przejrzyj wszystkie materiały wykładowe
 2. **Tydzień 3-4:** Rozwiąż zadania z ubiegłych lat
@@ -30,7 +30,7 @@ W tej sekcji znajdziesz:
 
 ---
 
-## 💾 Jak tutaj dodawać materiały?
+## Jak dodawać materiały?
 
 Stwórz folder z nazwą przedmiotu i w nim umieść:
 - `zadania.md` - Zadania z egzaminu

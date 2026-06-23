@@ -4,15 +4,15 @@ Tutaj przechowuję notatki z moich przedmiotów. Materiały są organizowane tem
 
 ## Przedmioty
 
-Tego semestru uczę się:
+W tym semestrze uczę się:
 
-- **Analiza Matematyczna** - Funkcje, granice, pochodne, całki
-- **Algebra Liniowa** - Macierze, wektory, przestrzenie liniowe
-- **Programowanie** - Algorytmy, struktury danych, best practices
+- Programowania w C++
+- Algebry
+- Fizyki
 
 ---
 
-## 💡 Jak dodawać notatki?
+## Jak dodawać notatki?
 
 1. Stwórz nowy plik `.md` w odpowiednim folderze
 2. Dodaj nagłówek (`# Temat`)

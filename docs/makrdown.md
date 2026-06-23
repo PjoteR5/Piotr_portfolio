@@ -53,6 +53,6 @@ Możesz używać:
 
 | Przedmiot | Semestr | Ocena |
 |-----------|---------|-------|
-| Analiza   | 1       | 5.0   |
-| Algebra   | 1       | 4.5   |
+| Analiza   | 1       | 4.0   |
+| Algebra   | 1       | 3.0   |
 | Programowanie | 1   | 5.0   |

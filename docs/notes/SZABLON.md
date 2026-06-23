@@ -12,7 +12,7 @@ Kopiuj poniższy szablon do każdej nowej notatki:
 
 ---
 
-## 📚 Spis Treści
+## Spis Treści
 
 1. [Wprowadzenie](#wprowadzenie)
 2. [Główne koncepcje](#główne-koncepcje)
@@ -54,14 +54,14 @@ kod / wzór
 
 ## Podsumowanie
 
-🔑 **Kluczowe punkty:**
+ **Kluczowe punkty:**
 - Punkt 1
 - Punkt 2
 - Punkt 3
 
 ---
 
-## 📖 Źródła
+## Źródła
 
 - Książka: [Tytuł], str. X-Y
 - Wykład z dnia: DD.MM.YYYY
@@ -69,7 +69,7 @@ kod / wzór
 
 ---
 
-## ✅ Checklist do powtórki
+## Checklist do powtórki
 
 - [ ] Przeczytałem wszystkie sekcje
 - [ ] Zrozumiałem główne idee
@@ -91,4 +91,3 @@ Aby szybko edytować notatki, możesz:
 
 ---
 
-**Gotowy do pisania?** 📝 Stwórz swój pierwszy plik notatki!

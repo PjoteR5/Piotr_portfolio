@@ -1,6 +1,6 @@
-# 🎤 Prezentacje
+# Prezentacje
 
-Archiwum moich prezentacji z seminariów, projektów i konferencji studenckich.
+Archiwum prezentacji
 
 ## Organizacja
 
@@ -8,21 +8,19 @@ Każda prezentacja zawiera:
 - Slajdy (w formacie zdjęć/PDF)
 - Notatki mówcy
 - Linki do materiałów źródłowych
-- Feedback i obserwacje
 
 ---
 
-## 📊 Tematy prezentacji
+## Tematy prezentacji
 
 ### Semestr 1
 
-- Wprowadzenie do Programowania
-- Zastosowania Algebry Liniowej
-- Matematyka w Inżynierii
+- Wprowadzenie do informatyki
+- Algebra
 
 ---
 
-## 📖 Jak dokumentować prezentacje?
+## Jak dokumentować prezentacje?
 
 Dla każdej prezentacji utwórz plik zawierający:
 
@@ -45,13 +43,3 @@ Dla każdej prezentacji utwórz plik zawierający:
 Przygotowana: DD.MM.YYYY
 Dla: Przedmiot/Seminarium X
 Czas trwania: X minut
-
-## Materiały towarzyszące
-
-- [Link do slajdów](https://example.com)
-- Notatki mówcy
-```
-
----
-
-**Wskazówka:** Możesz tutaj osadzać zdjęcia slajdów, diagramy i inne zasoby multimedialne.
