@@ -1,5 +1,5 @@
 site_name: Baza Materiałów 
-site_url: https://pjoter5.github.io/Piotr_portfolio/
+site_url: https://pjoter5.github.io/Piotr_portfolio/  # Projektowa strona GitHub Pages; notatki będą dostępne pod /Piotr_portfolio/notes/
 
 nav:
   - Strona główna: index.md

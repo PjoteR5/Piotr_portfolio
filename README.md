@@ -49,6 +49,11 @@ mkdocs build
 mkdocs gh-deploy
 ```
 
+> Ta strona jest publikowana jako GitHub Pages dla repozytorium projektu, więc jej podstawowy adres zawiera nazwę repozytorium.
+> 
+> - Strona główna: `https://pjoter5.github.io/Piotr_portfolio/`
+> - Notatki: `https://pjoter5.github.io/Piotr_portfolio/notes/`
+
 ---
 
 ## Personalizacja
