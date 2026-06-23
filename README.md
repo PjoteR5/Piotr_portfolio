@@ -72,6 +72,6 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
 ```
-
+Actions
 **Ostatnia aktualizacja:** 23.06.2026  
 **Autor:** Piotr
