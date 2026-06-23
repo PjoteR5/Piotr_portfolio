@@ -1,11 +1,28 @@
-site_name: My Docs
+site_name: Baza Materiałów 
 site_url: https://pjoter5.github.io/Piotr_portfolio/
+
 nav:
-  - Home: index.md
-  - About: about.md
-  - Diagram: makrdown.md
+  - Strona główna: index.md
+  - O mnie: about.md
+  - Notatki:
+    - Przedmioty: notes/index.md
+  - Egzaminy:
+    - Przegląd: exams/index.md
+  - Prezentacje:
+    - Katalog: presentations/index.md
+  - Zasoby:
+    - Przydatne linki: resources/index.md
+
 theme: 
   name: material
+  language: pl
+  logo: assets/logo.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
 
 markdown_extensions:
   - pymdownx.superfences:
@@ -13,3 +30,9 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - tables
+  - toc:
+      title: Na tej stronie

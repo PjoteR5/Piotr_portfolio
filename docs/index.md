@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Baza Materiałów
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Witaj na platformie do przechowywania i organizacji materiałów ze studiów!
 
-## Commands
+## Co tu znajdziesz?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### [Notatki](/notes/)
+Zapisane wykłady, streszczenia z książek i notatki z przedmiotów. Systematycznie zorganizowane materiały do nauki.
 
-## Project layout
+### [Egzaminy](/exams/)
+Zbiór zadań z egzaminów, przykładowe rozwiązania i materiały przygotowawcze. Idealnie do powtórki przed sesją.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### 🎤 [Prezentacje](/presentations/)
+Slajdy i materiały z prezentacji projektowych i kursów.
+
+
