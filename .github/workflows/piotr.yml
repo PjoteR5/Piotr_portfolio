@@ -1,6 +1,8 @@
 name: GitHub Actions Demo
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
+permissions:
+  contents: write
 jobs:
   # Explore-GitHub-Actions:
   #   runs-on: ubuntu-latest
@@ -27,7 +29,7 @@ jobs:
           uses: actions/setup-python@v5
           with:
             python-version: '3.x'
-            cache: 'pip' # Przyspiesza kolejne uruchomienia dzięki cache'owaniu zależności
+            #cache: 'pip' # Przyspiesza kolejne uruchomienia dzięki cache'owaniu zależności
 
         - name: Install dependencies
           run: |
