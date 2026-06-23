@@ -43,7 +43,7 @@ Opis...
 ## Źródła
 - Książka X, str. X-Y
 - Wykład Z z dnia DD.MM
-```markdown
+```
 
 ---
 

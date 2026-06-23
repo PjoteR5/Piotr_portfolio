@@ -43,3 +43,4 @@ Dla każdej prezentacji utwórz plik zawierający:
 Przygotowana: DD.MM.YYYY
 Dla: Przedmiot/Seminarium X
 Czas trwania: X minut
+```
